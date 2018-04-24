@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Meta-THREE",
+"dataUrl": "meta-THREE.data.unityweb",
+"asmCodeUrl": "meta-THREE.asm.code.unityweb",
+"asmMemoryUrl": "meta-THREE.asm.memory.unityweb",
+"asmFrameworkUrl": "meta-THREE.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
